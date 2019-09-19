@@ -5,4 +5,4 @@ from .models import Emp
 class EmpAdmin(admin.ModelAdmin):
     list_display = ['id','Eid','Ename','Eloc','Eadd']
 admin.site.register(Emp,EmpAdmin)
-#rajbccbhbchhcb
+# this rajkumar
